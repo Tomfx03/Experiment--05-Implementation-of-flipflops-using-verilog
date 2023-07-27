@@ -219,4 +219,4 @@ D flipflops
 
 ### RESULTS 
 
- To  desgin all the flipflops using verilog and validating their functionality using their functional tables
+ To  desgin all the flipflops using verilog and validating their functionality using their functional tables.
